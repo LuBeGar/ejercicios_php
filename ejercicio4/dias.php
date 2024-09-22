@@ -1,5 +1,6 @@
 <?php
 $numero = $_POST['numero'];
+//Hacemos un switch para las opciones
 switch($numero){
     case 1: 
         echo "Lunes";
